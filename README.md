@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/MGDelux/travis.svg?branch=main)](https://travis-ci.com/MGDelux/travis)
+[![Build Status](https://travis-ci.com/MGDelux/travis.svg?branch=master)](https://travis-ci.com/MGDelux/travis)
